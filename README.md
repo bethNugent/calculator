@@ -1,4 +1,4 @@
-Calculator using React
+REACT CALCULATOR 
 
 Hold all the buttons to be displayed in an array and map through the array of buttons to generate the buttons
 
